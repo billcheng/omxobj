@@ -1,6 +1,6 @@
 {
   "name": "omxobj",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Object oriented omxplayer wrapper for raspberry pi",
   "main": "index.js",
   "directories": {
