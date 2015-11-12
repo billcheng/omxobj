@@ -1,0 +1,24 @@
+{
+  "name": "omxobj",
+  "version": "0.0.1",
+  "description": "Object oriented omxplayer wrapper for raspberry pi",
+  "main": "index.js",
+  "directories": {
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/billcheng/omxobj"
+  },
+  "keywords": [
+    "omxplayer",
+    "raspberry"
+  ],
+  "author": "Bill Cheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/billcheng/omxobj/issues"
+  }
+}
