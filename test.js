@@ -13,4 +13,8 @@ setTimeout(function(){
 	omxOverlay.play("video1.mp4");
 }, 1000);
 
+omxVideo.on("progress", function(progress) {
+	console.log("Progress: %d\%", progress);
+});
+
 omxVideo.play("video2.mp4");
