@@ -47,7 +47,7 @@ Methods
 Example
 -------
 ```javascript
-var omxobj = require('omxPlayer');
+var omxobj = require('omxobj');
 
 var omxOverlay = omxobj.create({layer: 2}),
 	omxVideo = omxobj.create({layer: 1});
